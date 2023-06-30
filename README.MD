@@ -16,3 +16,5 @@ Attribution-NoDerivs
 CC BY-ND
 
 This license lets others reuse the work for any purpose, including commercially; however, it cannot be shared with others in adapted form, and credit must be provided to you.
+
+[![DOI](https://zenodo.org/badge/634363978.svg)](https://zenodo.org/badge/latestdoi/634363978)
